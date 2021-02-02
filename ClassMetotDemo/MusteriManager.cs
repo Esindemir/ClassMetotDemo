@@ -13,6 +13,7 @@ namespace ClassMetotDemo
         public void Ekle2(string musteriAdi , string Soyadi)
         {
             Console.WriteLine("Silme işleminiz gerçekleştirildi. :" + musteriAdi);
+            //yeni hali
         }
     }
 }
